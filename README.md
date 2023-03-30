@@ -1,4 +1,5 @@
 # Calm_corner
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -20,17 +21,15 @@ Calm Corner is a mobile app designed to reduce depression and promote mental wel
 
 # Features
 
---Mindful Reading
-The mindful reading feature allows users to read calming articles and stories that can help reduce anxiety and promote relaxation. Users can choose from a variety of categories, including self-care, mindfulness, and wellness.
-
 --AI Chatbot
 The AI chatbot feature allows users to chat with an AI-powered virtual assistant. The chatbot can offer helpful tips and guidance on managing stress and anxiety.
 
 --Guided Meditation
 The guided meditation feature offers a selection of meditation sessions that can help users relax and improve their mental wellbeing. Users can choose from different styles and durations of meditation sessions.
 
---Voice-guided Breathing Exercise
-The voice-guided breathing exercise feature offers users a simple yet effective breathing exercise that can help reduce stress and anxiety. Users can choose from different breathing patterns and durations.
+--![Calm Corner Files (1)](https://user-images.githubusercontent.com/124333482/228835633-21aa3764-f3f3-4a2e-b7c5-c0c7ec5917fa.png)
+
+
 
 --User Progress Tracking
 The user progress tracking feature allows users to track their progress and accomplishments within the app. Users can see how much time they've spent using each feature and how many tasks they've completed.
@@ -44,5 +43,9 @@ __ _ _ _ _ _____________________________________________________________________
 
 # Getting Started
 
-To use the Calm Corner app, simply download it from the App Store or Google Play Store. Once you've installed the app, create an account and start exploring the different features.
+To use the Calm Corner app, simply download it from the App Store or Google Play Store. Once you've installed the app.
+
+Open the app and sign in trough email or google account.
+
+After creating account complete your profile by filling a
 
