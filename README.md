@@ -19,26 +19,30 @@ ________________
 
 Calm Corner is a mobile app designed to reduce depression and promote mental wellness. The app offers a variety of features to help users manage their emotions, including mindful reading, an AI chatbot, guided meditation, voice-guided breathing exercises, user progress tracking, therapist wellness, and social groups.
 
+--![Calm Corner Files (1)](https://user-images.githubusercontent.com/124333482/228835633-21aa3764-f3f3-4a2e-b7c5-c0c7ec5917fa.png)
+
 # Features
 
 --AI Chatbot
 The AI chatbot feature allows users to chat with an AI-powered virtual assistant. The chatbot can offer helpful tips and guidance on managing stress and anxiety.
 
---Guided Meditation
-The guided meditation feature offers a selection of meditation sessions that can help users relax and improve their mental wellbeing. Users can choose from different styles and durations of meditation sessions.
-
---![Calm Corner Files (1)](https://user-images.githubusercontent.com/124333482/228835633-21aa3764-f3f3-4a2e-b7c5-c0c7ec5917fa.png)
-
-
-
---User Progress Tracking
-The user progress tracking feature allows users to track their progress and accomplishments within the app. Users can see how much time they've spent using each feature and how many tasks they've completed.
+--Mood Senssor 
+    Mood Sensor is basically designed to detect mood and feelings of the user through voice tone,gestures and facial expressions.
+    
+-- Mindful Activities 
+    This section contains various engaging acctivities which helps user to relax and calm down. 
+    The activities includes :-
+    1). Positive  Affirmaions 
+    2). Calm Mind Podcast 
+    3). Blogs/Journals 
+    4). Healthy Diet Plans
+    5). Calm Music and Beats 
+    
 
 --Therapist Wellness
-The therapist wellness feature offers resources and information for mental health professionals. Users can access articles and research on mental health topics and connect with other mental health professionals through the app's social groups.
-
---Social Groups
-The social groups feature allows users to connect with others who are also using the app to improve their mental wellbeing. Users can join groups based on their interests and goals and share their progress and experiences with others.
+      The therapist wellness feature offers resources and information for mental health professionals. Users can access articles and research on mental health topics             and connect with other mental health professionals.
+--Capture Store 
+    
 __ _ _ _ _ __________________________________________________________________________________________________ _ _ _ _ _ _
 
 # Getting Started
@@ -47,5 +51,7 @@ To use the Calm Corner app, simply download it from the App Store or Google Play
 
 Open the app and sign in trough email or google account.
 
-After creating account complete your profile by filling a
+After creating account complete your profile by filling gernal details.
+
+
 
