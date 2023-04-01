@@ -41,8 +41,12 @@ The AI chatbot feature allows users to chat with an AI-powered virtual assistant
 
 --Therapist Wellness
       The therapist wellness feature offers resources and information for mental health professionals. Users can access articles and research on mental health topics             and connect with other mental health professionals.
+      
 --Capture Store 
-    
+       The capture store allows users to capture their life events and to take notes which helps them to share and express their feelings.
+       
+ -User Progress Tracking
+The user progress tracking feature allows users to track their progress and accomplishments within the app. Users can see how much time they've spent using each feature and how many tasks they've completed.      
 __ _ _ _ _ __________________________________________________________________________________________________ _ _ _ _ _ _
 
 # Getting Started
